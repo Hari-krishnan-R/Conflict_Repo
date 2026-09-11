@@ -1,4 +1,2 @@
-Place: Madurai
-
-For the current branch: If you just want to see the files in the branch you are currently on, you can replace the branch name with HEAD:bashgit ls-tree -r HEAD --name-only
+Place: Madurai For the current branch: If you just want to see the files in the branch you are currently on, you can replace the branch name with HEAD:bashgit ls-tree -r HEAD --name-only
 Include directories: By default, the command above skips empty or intermediate directory names and only prints the files. If you want to list the directory paths as well, add the -t flag:
